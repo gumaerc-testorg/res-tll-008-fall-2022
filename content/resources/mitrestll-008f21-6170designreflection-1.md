@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/830700273e1fa5930a7cca43e28c5cfd_MITRESTLL-008F21-6170designReflection.pdf
+file: /ol-ocw-studio-app/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/830700273e1fa5930a7cca43e28c5cfd_MITRESTLL-008F21-6170designReflection.pdf
 file_size: 83346
 file_type: application/pdf
 learning_resource_types: []

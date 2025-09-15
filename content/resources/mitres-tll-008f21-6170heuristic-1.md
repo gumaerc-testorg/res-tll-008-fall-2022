@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/59fd2afdceea9458d968584f28f42dd2_MITRES-TLL-008F21-6170Heuristic.pdf
+file: /ol-ocw-studio-app/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/59fd2afdceea9458d968584f28f42dd2_MITRES-TLL-008F21-6170Heuristic.pdf
 file_size: 49220
 file_type: application/pdf
 learning_resource_types: []
