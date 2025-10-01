@@ -37,14 +37,14 @@ video_metadata:
 
 Brief, specially commissioned and peer-reviewed cases intended to be effective for undergraduate instruction across a range of classes and fields of study.
 
-[**Understanding Potential Sources of Harm throughout the Machine Learning Life Cycle**](https://mit-serc.pubpub.org/pub/potential-sources-of-harm-throughout-the-machine-learning-life-cycle/release/2)**, by Harini Suresh and John Guttag**
+{{% resource_link "351ad2c0-685e-4840-aff5-cb2eb6925667" "**Understanding Potential Sources of Harm throughout the Machine Learning Life Cycle**" %}}**, by Harini Suresh and John Guttag**
 
 *Keywords:* fairness in machine learning, societal implications of machine learning, algorithmic bias, AI ethics
 
-[**Differential Privacy and the 2020 US Census**](https://mit-serc.pubpub.org/pub/differential-privacy-2020-us-census/release/1)**, by Simson Garfinkel (George Washington University)**
+{{% resource_link "de4f1507-a00a-4192-89f7-df18c5aa9052" "**Differential Privacy and the 2020 US Census**" %}}**, by Simson Garfinkel (George Washington University)**
 
 *Keywords:* differential privacy, disclosure avoidance, statistical disclosure limitation, US Census Bureau
 
-[**Algorithmic Redistricting and Black Representation in US Elections**](https://mit-serc.pubpub.org/pub/algorithmic-redistricting-in-us-elections/release/1)**, by Zachary Schutzman (MIT)**
+{{% resource_link "a49b9c26-ba9a-4ba2-b927-961e4eb49f16" "**Algorithmic Redistricting and Black Representation in US Elections**" %}}**, by Zachary Schutzman (MIT)**
 
 *Keywords:* redistricting, algorithms, race, politics, elections

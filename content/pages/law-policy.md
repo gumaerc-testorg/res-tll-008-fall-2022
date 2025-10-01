@@ -29,30 +29,30 @@ video_metadata:
 
 Brief, specially commissioned and peer-reviewed cases intended to be effective for undergraduate instruction across a range of classes and fields of study.
 
-[**Wrestling with Killer Robots: The Benefits and Challenges of Artificial Intelligence for National Security**](https://mit-serc.pubpub.org/pub/wrestling-with-killer-robots/release/2)**, by Erik Lin-Greenberg**
+{{% resource_link "29286f63-f73e-4a9e-aba3-0f19a312e412" "**Wrestling with Killer Robots: The Benefits and Challenges of Artificial Intelligence for National Security**" %}}**, by Erik Lin-Greenberg**
 
 *Keywords:* autonomous weapons, killer robots, military ethics, modern warfare
 
-[**Public Debate on Facial Recognition Technologies in China**](https://mit-serc.pubpub.org/pub/public-debate-on-facial-recognition-technologies-in-china/release/1)**, by Tristan G. Brown, Alexander Statman, and Celine Sui**
+{{% resource_link "e4b12ff1-c92e-4914-8b62-e500b1447749" "**Public Debate on Facial Recognition Technologies in China**" %}}**, by Tristan G. Brown, Alexander Statman, and Celine Sui**
 
 *Keywords*: facial recognition, Chinese law, social media
 
-[**The Case of the Nosy Neighbors**](https://mit-serc.pubpub.org/pub/nosy-neighbors/release/2?readingCollection=40dca7f1)**, by Johanna Gunawan and Woodrow Hartzog (Northeastern University)**
+{{% resource_link "d51d75ff-7702-45b0-978d-7b3770dc2b8a" "**The Case of the Nosy Neighbors**" %}}**, by Johanna Gunawan and Woodrow Hartzog (Northeastern University)**
 
 *Keywords:* user data privacy, technology in norm enforcement, facial recognition, mass surveillance, mass scraping of public data
 
-[**Differential Privacy and the 2020 US Census**](https://mit-serc.pubpub.org/pub/differential-privacy-2020-us-census/release/1)**, by Simson Garfinkel (George Washington University)**
+{{% resource_link "de4f1507-a00a-4192-89f7-df18c5aa9052" "**Differential Privacy and the 2020 US Census**" %}}**, by Simson Garfinkel (George Washington University)**
 
 *Keywords:* differential privacy, disclosure avoidance, statistical disclosure limitation, US Census Bureau
 
-[**Protections for Human Subjects in Research: Old Models, New Needs?**](https://mit-serc.pubpub.org/pub/protections-for-human-subjects/release/1)**, by Laura Stark (Vanderbilt University)**
+{{% resource_link "6c1e4ece-b466-4ef5-a59a-853f9eb1147b" "**Protections for Human Subjects in Research: Old Models, New Needs?**" %}}**, by Laura Stark (Vanderbilt University)**
 
 *Keywords:* human-subjects research, informed consent, institutional review boards, big data
 
-[**The Puzzle of the Missing Robots**](https://mit-serc.pubpub.org/pub/puzzle-of-missing-robots/release/1)**, by Suzanne Berger (MIT) and Benjamin Armstrong (MIT)**
+{{% resource_link "e864105d-7127-4155-bbf5-4b99f38bae39" "**The Puzzle of the Missing Robots**" %}}**, by Suzanne Berger (MIT) and Benjamin Armstrong (MIT)**
 
 *Keywords:* robots, automation, manufacturing, workforce
 
-[**Algorithmic Redistricting and Black Representation in US Elections**](https://mit-serc.pubpub.org/pub/algorithmic-redistricting-in-us-elections/release/1)**, by Zachary Schutzman (MIT)**
+{{% resource_link "a49b9c26-ba9a-4ba2-b927-961e4eb49f16" "**Algorithmic Redistricting and Black Representation in US Elections**" %}}**, by Zachary Schutzman (MIT)**
 
 *Keywords:* redistricting, algorithms, race, politics, elections
