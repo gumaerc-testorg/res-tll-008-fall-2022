@@ -5,9 +5,9 @@ file: /ol-ocw-studio-app/courses/res-tll-008-social-and-ethical-responsibilities
 file_size: 20884
 file_type: image/jpeg
 image_metadata:
-  caption: 'Students involved in active learning projects. (Courtesy of {{% resource_link
-    "0307893d-f01a-4d8c-8af0-3a4d14f28648" "University of Saskatchewan (usask)" %}}
-    on Flickr. License: CC BY-NC-SA.)'
+  caption: 'Students involved in active learning projects. (Courtesy of [University
+    of Saskatchewan (usask)](https://www.flickr.com/photos/usask/8161626394) on Flickr.
+    License: CC BY-NC-SA.)'
   credit: ''
   image-alt: Two pairs of students sitting at a desk and discussing with each other.
 learning_resource_types: []
